@@ -9,6 +9,5 @@
   },
   "homepage": "https://platformwhisperer.com",
   "license": "MIT",
-  "icon": "./icon.png",
   "privacyPolicyUrl": "https://platformwhisperer.com/privacy"
 }
