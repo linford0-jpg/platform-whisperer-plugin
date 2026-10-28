@@ -9,5 +9,9 @@
   },
   "homepage": "https://platformwhisperer.com",
   "license": "MIT",
-  "privacyPolicyUrl": "https://platformwhisperer.com/privacy"
+  "privacyPolicyUrl": "https://platformwhisperer.com/privacy",
+  "supportUrl": "https://platformwhisperer.com/support",
+  "documentationUrl": "https://platformwhisperer.com/docs/connect",
+  "termsOfServiceUrl": "https://platformwhisperer.com/terms",
+  "repository": "https://github.com/linford0-jpg/platform-whisperer-plugin"
 }
