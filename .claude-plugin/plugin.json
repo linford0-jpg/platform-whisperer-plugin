@@ -1,0 +1,9 @@
+{
+  "name": "platform-whisperer",
+  "displayName": "Platform Whisperer",
+  "version": "1.0.0",
+  "description": "Live departures and unofficial platform predictions for London Euston and Paddington, read only, with a track record of how often the predictions were right.",
+  "author": { "name": "Longford Consulting Ltd", "url": "https://platformwhisperer.com" },
+  "homepage": "https://platformwhisperer.com",
+  "license": "MIT"
+}

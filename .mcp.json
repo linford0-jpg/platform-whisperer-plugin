@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "platform-whisperer": {
+      "type": "http",
+      "url": "https://platformwhisperer.com/mcp"
+    }
+  }
+}
